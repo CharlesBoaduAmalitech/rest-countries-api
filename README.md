@@ -46,7 +46,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL : https://charlesboaduamalitec.github.io/rest-countries-api
+- Live Site URL : https://charlesboaduamalitech.github.io/rest-countries-api
 
 ## My process
 
